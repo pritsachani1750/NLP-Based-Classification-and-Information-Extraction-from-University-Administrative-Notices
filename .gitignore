@@ -1,0 +1,14 @@
+# Large datasets and archives
+*.zip
+
+# Large CSV datasets
+cia1_phase1_outputs/uoh_phase1_processed_dataset.csv
+outputs/uoh_phase1_preprocessed_updated.csv
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
